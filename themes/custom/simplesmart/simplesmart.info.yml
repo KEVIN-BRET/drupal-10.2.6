@@ -1,6 +1,6 @@
 name: Simple Smart Classy Version
 type: theme
-description: 'un thème élégant et pratique pour les esprits curieux.'
+description: "un thème élégant et pratique pour les esprits curieux."
 core_version_requirement: ^8 || ^9 || ^10
 core: 8.x
 base theme: classy
@@ -13,4 +13,5 @@ regions:
   page_top: Page top
   page_bottom: Page bottom
 libraries:
-- simplesmart/global-css
+  - simplesmart/global-css
+  - simplesmart/pacifico
